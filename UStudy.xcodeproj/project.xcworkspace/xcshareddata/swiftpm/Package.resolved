@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "QGrid",
+        "repositoryURL": "https://github.com/Q-Mobile/QGrid.git",
+        "state": {
+          "branch": null,
+          "revision": "804e59f8cb9f66b226685e9369fb82029742b83a",
+          "version": "0.1.4"
+        }
+      },
+      {
+        "package": "RemoteImage",
+        "repositoryURL": "https://github.com/crelies/RemoteImage.git",
+        "state": {
+          "branch": null,
+          "revision": "2dca7774a57eaa0797cf288a98bf6ea516469b49",
+          "version": "2.0.3"
+        }
+      },
+      {
+        "package": "SchafKit",
+        "repositoryURL": "https://github.com/Quintschaf/SchafKit.git",
+        "state": {
+          "branch": "master",
+          "revision": "0abadbee4efde99214eaac31c2432652e3bb8502",
+          "version": null
+        }
+      },
+      {
+        "package": "Introspect",
+        "repositoryURL": "https://github.com/siteline/SwiftUI-Introspect.git",
+        "state": {
+          "branch": null,
+          "revision": "36ecf80429d00a4cd1e81fbfe4655b1d99ebd651",
+          "version": "0.1.2"
+        }
+      },
+      {
+        "package": "SwiftUIRefresh",
+        "repositoryURL": "https://github.com/timbersoftware/SwiftUIRefresh.git",
+        "state": {
+          "branch": null,
+          "revision": "fa8fac7b5eb5c729983a8bef65f094b5e0d12014",
+          "version": "0.0.3"
+        }
+      },
+      {
+        "package": "UStudyCore",
+        "repositoryURL": "https://github.com/JannThomas/UStudyCore-iOS.git",
+        "state": {
+          "branch": "main",
+          "revision": "a12de54d17ba023490ba907e3584a06391be62d1",
+          "version": null
+        }
+      },
+      {
+        "package": "ViewInspector",
+        "repositoryURL": "https://github.com/nalexn/ViewInspector.git",
+        "state": {
+          "branch": null,
+          "revision": "29771131e40b009232afc8d94d626d73081817bf",
+          "version": "0.7.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

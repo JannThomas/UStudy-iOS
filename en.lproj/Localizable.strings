@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  UStudy
+
+  Created by Jann Schafranek on 31.01.21.
+  Copyright © 2021 Jann Thomas. All rights reserved.
+*/
+
+gradeStatus.passed = "Passed";
+gradeStatus.failed = "Failed";

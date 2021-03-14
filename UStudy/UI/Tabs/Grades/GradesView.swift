@@ -129,14 +129,14 @@ private let dateFormatter: DateFormatter = {
 }()
 
 private func overviewItemContainsGrade(itemName: String, grade: String?) -> Bool {
-    guard let grade = grade,
+    guard let unwrappedGrade = grade,
           let match = itemName.regexMatches(with: "([0-9,.]+)[ -]+([0-9,.]+)")?.first,
           let first = match.captureGroups[0],
           let last = match.captureGroups[1] else {
         return grade == itemName
     }
     
-    if (grade < first && grade > last) || (grade > first && grade < last) {
+    if (unwrappedGrade < first && unwrappedGrade > last) || (unwrappedGrade > first && unwrappedGrade < last) {
         return true
     }
     
